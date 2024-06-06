@@ -53,11 +53,10 @@ Store the data in **Pandas Dataframe.**
 ### Contact Me
 
 <p align="left">
-    <a href="https://www.github.com/Saurabh251000" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" /></a> 
-    <a href="https://www.instagram.com/_restart__art/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="32" height="32" /></a>
-    <a href="https://www.linkedin.com/in/saurabh-kushwaha-064017212/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" /></a>
-    <a href="https://www.instagram.com/saurabh_25100/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="32" height="32" /></a>
-    <a href="https://twitter.com/i/flow/login?redirect_after_login=%2FSaurabh25100" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="32" height="32" /></a>
+    <a href="https://github.com/sk12369" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" /></a> 
+    <a href="https://www.instagram.com/satyam_0612/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="32" height="32" /></a>
+    <a href="https://www.linkedin.com/in/satyam-kumar-77061321a" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="32" height="32" /></a>
 </p>
 
 
