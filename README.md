@@ -24,7 +24,7 @@ Store the data in **Pandas Dataframe.**
 **2 :Market Analysis**
 * Plotting the Closing Price of each company :chart_with_upwards_trend:
 *  Plotting the Volume of Sales :chart_with_upwards_trend:
-*  Plot 10 days, 20 days, 30 days Moving Average of Stocks :chart_with_upwards_trend:
+*  Plot 10 days, 20 days, 50 days Moving Average of Stocks :chart_with_upwards_trend:
 *  Plot percentage of **Daily Return** of the shares :chart:
 *  Plot Correlation between stocks closing price :chart_with_upwards_trend:
 *  Risk Analysis : Calculate coefficient of variabilty (risk/reward) :chart:
